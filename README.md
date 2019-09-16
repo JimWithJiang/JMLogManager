@@ -1,1 +1,2 @@
-# JMLogManager
+# iOS日志实时重定向输出
+
