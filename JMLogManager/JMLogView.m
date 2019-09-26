@@ -43,6 +43,7 @@ bool isMove = NO;
         self.windowLevel = UIWindowLevelAlert;
         self.backgroundColor = [UIColor colorWithRed:0 green:0 blue:0 alpha:0.3];
         self.clipsToBounds = YES;
+        self.hidden = NO;
         
         UITextView *textView = [[UITextView alloc]init];
         textView.frame = self.bounds;
